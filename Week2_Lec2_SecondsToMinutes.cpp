@@ -11,6 +11,6 @@ int main() {
     int min = seconds / 60;
     int remainingSeconds = seconds % 60;
     //output results
-    cout << "The total number of minutes in " << seconds << " is " << min << " and the reamining seconds are " <<
+    cout << "The total number of minutes in " << seconds << " is " << min << " and the remaining seconds are " <<
             remainingSeconds;
 }
