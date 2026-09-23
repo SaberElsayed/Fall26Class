@@ -79,6 +79,7 @@ int main() {
             break;
         case 12: cout << "December ";
             break;
-            default: cout << "Invalid Input"; break;
+        default: cout << "Invalid Input";
+            break;
     }
 }
